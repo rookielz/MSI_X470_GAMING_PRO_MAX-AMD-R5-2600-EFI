@@ -7,3 +7,4 @@ CPU：AMD-R5-2600
 显卡：蓝宝石RX570超白金
 硬盘：西部数据SN750 500G
 引导工具：opencore 5.8
+注意：安装使用前要自己配三码，用opencore配置SystemSerialNumber、MLB以及SystemUUID，否则会无法登陆APPLE ID
