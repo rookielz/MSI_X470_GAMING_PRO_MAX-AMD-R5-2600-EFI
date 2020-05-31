@@ -8,3 +8,4 @@ CPU：AMD-R5-2600
 硬盘：西部数据SN750 500G
 引导工具：opencore 5.8
 注意：安装使用前要自己配三码，用opencore配置SystemSerialNumber、MLB以及SystemUUID，否则会无法登陆APPLE ID
+注意：之前上传的版本有点小问题，2020年5月31号之前已经下载的，建议更换这个版本，目前使用无任何问题。（20200531）
